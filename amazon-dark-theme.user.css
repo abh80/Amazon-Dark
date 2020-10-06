@@ -1,0 +1,161 @@
+/* ==UserStyle==
+@name        Amazon-Dark-Theme
+@version     1.0.0
+@description A simple dark theme for all amazon domains.
+@namespace   Abh80
+@author      Abh80
+@homepageURL https://github.com/abh80/Amazon-Dark
+@updateURL   https://raw.githubusercontent.com/abh80/Amazon-Dark/main/amazon-dark-theme.user.css
+==/UserStyle== */
+
+.sg-col-inner {
+    color: white;
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+body {
+    color: white;
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+html {
+    color: white;
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+.a-color-base {
+    color: white !important;
+}
+.a-color-secondary {
+    color: rgba(255, 255, 255, 0.6)
+}
+.s-desktop-content s-opposite-dir sg-row {
+    background-color: black;
+}
+.s-desktop-content s-opposite-dir sg-row {
+    margin: 0;
+}
+.a-price-whole {
+    color: white;
+}
+.a-price-symbol {
+    color: white;
+}
+.a-price-fraction {
+    color: white;
+}
+.text-link-stripe {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+.gw-card-layout .a-cardui {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+.gw-card-layout .desktop-row > div {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+#a-page {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+#rhf .rhf-fresh-header {
+    color: white;
+}
+h2 {
+    color: white;
+}
+.fresh-shoveler .as-title-block .a-color-base {
+    color: white!important;
+}
+.amzn-brand .color-black {
+    color: white;
+}
+#rhf .rhf-sign-in-button {
+    color: white;
+}
+.amzn-brand .color-squid-ink {
+    color: white;
+}
+
+#dp {
+    color: white;
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+.a-color-secondary {
+    color: white!important;
+}
+.a-accordion .a-accordion-active .a-accordion-row {
+    cursor: default;
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+.a-accordion .a-accordion-active .a-accordion-inner {
+    display: block;
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+.buybox-tabular-label-truncate:before {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+.buybox-tabular-label-truncate:after {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+.a-accordion .a-accordion-row {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+.a-box {
+    background-color: black;
+}
+.a-ordered-list .a-list-item,
+.a-unordered-list .a-list-item,
+ol .a-list-item,
+ul .a-list-item {
+    color: white;
+}
+#quickPromoBucketContent ul {
+    color: #fff;
+}
+.aplus-v2 .premium-aplus-module-5 table.a-bordered td.attribute,
+.aplus-v2 .premium-aplus-module-5 table.a-bordered td.active-item {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+    color: white;
+}
+.aplus-v2 .premium-aplus-module-5 .attribute,
+.aplus-v2 .premium-aplus-module-5 .active-item,
+.aplus-v2 .premium-aplus-module-5 .description {
+    color: white;
+}
+.aplus-data-column {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+.a-column a-span6 a-spacing-base a-ws-span6 {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+table.a-keyvalue th {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+    color: white;
+}
+.comparison_table tr:nth-child(even) td.comparison_baseitem_column {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+table.a-bordered tr:nth-child(even) {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+.comparison_baseitem_column {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+#productDescription {
+    color: white;
+}
+.a-divider.a-divider-section .a-divider-inner:after {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+    color: white;
+}
+
+#productDescription_feature_div > h2.softlines {
+    color: white;
+}
+.a-icon {
+    background-image: url("https://raw.githubusercontent.com/abh80/abh80/master/amazon-logo.png")
+}
+.a-icon-logo,
+.a-logo {
+    background-position: center;
+}
+.a-icon,
+.a-link-emphasis:after {
+    background-size: cover;
+}
