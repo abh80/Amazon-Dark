@@ -6,11 +6,8 @@
 @namespace   Abh80
 @author      Abh80
 @homepageURL https://github.com/abh80/Amazon-Dark
-@updateURL   https://raw.githubusercontent.com/abh80/Amazon-Dark/main/amazon-dark-theme.user.css
-@supportURL  https://github.com/abh80/Amazon-Dark/issues
-@license        CC-BY-NC-SA-4.0
+@updateURL   https://raw.githubusercontent.com/abh80/Amazon-Dark/master/amazon-dark-theme.user.css
 ==/UserStyle== */
-
 .sg-col-inner {
     color: white;
     background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
@@ -161,6 +158,14 @@ table.a-bordered tr:nth-child(even) {
 .a-icon,
 .a-link-emphasis:after {
     background-size: cover;
+}
+.s-desktop-toolbar {
+    background-color: rgba(0, 0, 0, 0.01);
+}
+
+.s-desktop-content {
+    background-color: rgba(0, 0, 0, 0.01);
+    padding-top: 0px;
 }
 }
 
