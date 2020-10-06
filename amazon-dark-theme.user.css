@@ -167,6 +167,21 @@ table.a-bordered tr:nth-child(even) {
     background-color: rgba(0, 0, 0, 0.01);
     padding-top: 0px;
 }
+/* custom scroll bar */
+::-webkit-scrollbar {
+    width: 10px;
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+::-webkit-scrollbar-track {
+    background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+}
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 20px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
 }
 
 @-moz-document url-prefix("http://example.com") {
