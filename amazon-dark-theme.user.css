@@ -1,3 +1,4 @@
+@-moz-document url-prefix("https://www.amazon.") {
 /* ==UserStyle==
 @name        Amazon-Dark-Theme
 @version     1.0.0
@@ -158,4 +159,13 @@ table.a-bordered tr:nth-child(even) {
 .a-icon,
 .a-link-emphasis:after {
     background-size: cover;
+}
+}
+
+@-moz-document url-prefix("http://example.com") {
+
+}
+
+@-moz-document url-prefix("http://example.com") {
+
 }
