@@ -182,6 +182,14 @@ table.a-bordered tr:nth-child(even) {
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
+#hmenu-content {
+     background-image: url("https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-crosshatch.png");
+     color : white;
+}
+#hmenu-container #hmenu-canvas #hmenu-content ul.hmenu li a:visited {
+    text-decoration: none;
+    color: #fff;
+}
 }
 
 @-moz-document url-prefix("http://example.com") {
